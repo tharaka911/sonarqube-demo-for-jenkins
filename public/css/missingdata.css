@@ -1,0 +1,116 @@
+.faded {
+    color: #999999;
+  }
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.margin-end-20{
+    padding-right: 10vw !important;
+}
+
+td, th {
+    padding: 10px;
+    text-align: left;
+    font-size: 16px;
+    color: #c9c9c9;
+    font-weight: bold;
+    border: 1px solid #ddd;
+}
+
+input[type="text"], input[type="date"] {
+    padding: 5px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover {
+    background-color: #3e8e41;
+}
+
+input:focus {
+    outline: none;
+    border: 1px solid #ddd;
+    box-shadow: 0px 0px 5px rgb(255, 255, 255);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+select
+{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 6px;
+}
+
+select:focus {
+    outline: none;
+    border: 1px solid #ddd;
+    box-shadow: 0px 0px 5px rgb(255, 255, 255);
+    transition: box-shadow 0.3s ease-in-out;
+    padding: 6px;
+}
+
+.background
+{
+    background-color: #a9a9a9;
+}
+
+.TextEffect
+{
+    font-weight: bold;
+}
+
+.Tablebackground
+{
+    background-color: #343a40;
+}
+
+.submitButton
+{
+    background-color: #565656 !important;
+    padding: 20px;
+    border: 2px solid #767676 !important;
+    color: #e2e2e2 !important;
+}
+
+.submitButton:hover
+{
+    border: 2px solid #c7c7c7 !important;
+    transition: box-shadow 0.3s ease-in-out !important;
+}
+
+.InputColor
+{
+    background-color: #e2e2e2;
+    color: rgb(96, 96, 96);
+}
+
+.Line1
+{
+    color: #343a40 !important;
+    font-weight: bold;
+}
+
+.Line2
+{
+    color: #565656 !important;
+
+}

@@ -1,0 +1,6 @@
+projectKey=steaming-games_sonarqube-demo-p1_AYah-iLwZ-KNSb7wgVND
+serverUrl=http://188.40.187.241:9000
+serverVersion=9.0.1.46107
+dashboardUrl=http://188.40.187.241:9000/dashboard?id=steaming-games_sonarqube-demo-p1_AYah-iLwZ-KNSb7wgVND
+ceTaskId=AYaiBdflZ-KNSb7wgVNR
+ceTaskUrl=http://188.40.187.241:9000/api/ce/task?id=AYaiBdflZ-KNSb7wgVNR

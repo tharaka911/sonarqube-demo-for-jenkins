@@ -1,0 +1,33 @@
+.vresult{
+    margin: 2px;
+    border: .15px solid;
+    background-color: #343a40;
+    border-radius: 50%;
+    font-size: large;
+    height: 50px !important;
+    width: 50px !important;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    display: flex;
+    color: #ffbb00;
+}
+.vtd{
+    display: flex;
+}
+.v-text{
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    /* display: flex; */
+    
+}
+.table td{
+    vertical-align: middle !important;
+}
+.date-flow{
+    display: flex;
+    /* float: right; */
+    flex-flow: row;
+    flex-direction: row-reverse;
+}
